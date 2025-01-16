@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\validations\\loginpagevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:validations\\loginpagevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\converters\\validationresulttoerrormessagesconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:converters\\validationresulttoerrormessagesconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\converters\\validationresulttohaserrorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:converters\\validationresulttohaserrorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\helpers\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:helpers\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\mvvm\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:mvvm\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\views\\employeeslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:views\\employeeslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\views\\employeeslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:views\\employeeslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\viewmodels\\employeeslistpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:viewmodels\\employeeslistpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\employeesapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:employeesapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|d:\\content creation\\.net core projects\\employeesapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306D235-3A26-4BBD-BD1C-FBF833FD8F83}|EmployeesAPP.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPageViewModel.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\ViewModels\\LoginPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginPageViewModel.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\ViewModels\\LoginPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginPageViewModel.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:02:57.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T16:15:01.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationResultToHasErrorConverter.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Converters\\ValidationResultToHasErrorConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\ValidationResultToHasErrorConverter.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Converters\\ValidationResultToHasErrorConverter.cs",
+              "RelativeToolTip": "Converters\\ValidationResultToHasErrorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T16:14:10.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:18:12.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles\\Styles.xaml",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAALUBAAAAAAAAAIBJwMIBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T19:01:56.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeesListPageViewModel.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\ViewModels\\EmployeesListPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EmployeesListPageViewModel.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\ViewModels\\EmployeesListPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EmployeesListPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:02:27.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginPage.xaml",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "Views\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T15:00:06.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidationResultToErrorMessagesConverter.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Converters\\ValidationResultToErrorMessagesConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\ValidationResultToErrorMessagesConverter.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Converters\\ValidationResultToErrorMessagesConverter.cs",
+              "RelativeToolTip": "Converters\\ValidationResultToErrorMessagesConverter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:06:54.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPageValidator.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Validations\\LoginPageValidator.cs",
+              "RelativeDocumentMoniker": "Validations\\LoginPageValidator.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Validations\\LoginPageValidator.cs",
+              "RelativeToolTip": "Validations\\LoginPageValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:39:52.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginPage.xaml.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:00:08.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:18:02.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T12:18:27.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeesListPage.xaml.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Views\\EmployeesListPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\EmployeesListPage.xaml.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Views\\EmployeesListPage.xaml.cs",
+              "RelativeToolTip": "Views\\EmployeesListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:59:53.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Helpers\\Settings.cs",
+              "RelativeDocumentMoniker": "Helpers\\Settings.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Helpers\\Settings.cs",
+              "RelativeToolTip": "Helpers\\Settings.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:34:55.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginVm.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\MVVM\\LoginVm.cs",
+              "RelativeDocumentMoniker": "MVVM\\LoginVm.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\MVVM\\LoginVm.cs",
+              "RelativeToolTip": "MVVM\\LoginVm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:24:00.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeesListPage.xaml",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Views\\EmployeesListPage.xaml",
+              "RelativeDocumentMoniker": "Views\\EmployeesListPage.xaml",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Views\\EmployeesListPage.xaml",
+              "RelativeToolTip": "Views\\EmployeesListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T12:58:18.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles\\Colors.xaml",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T15:11:55.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeesAPP",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\EmployeesAPP.csproj",
+              "RelativeDocumentMoniker": "EmployeesAPP.csproj",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\EmployeesAPP.csproj",
+              "RelativeToolTip": "EmployeesAPP.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T12:49:17.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T12:18:54.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:18:30.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:18:25.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeesAPP\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T12:18:18.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

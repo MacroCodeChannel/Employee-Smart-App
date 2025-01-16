@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EmployeesAPP.Views.LoginPage"
+             xmlns:viewmodels="clr-namespace:EmployeesAPP.ViewModels;assembly=EmployeesAPP"
+              xmlns:validations="clr-namespace:EmployeesAPP.Validations;assembly=EmployeesAPP"
+             xmlns:input="clr-namespace:Syncfusion.Maui.Toolkit.TextInputLayout;assembly=Syncfusion.Maui.Toolkit"
+             x:DataType="viewmodels:LoginPageViewModel"
+             Shell.NavBarIsVisible="False"
+             Title="Employee Smart App">
+    <ContentPage.BindingContext>
+        <viewmodels:LoginPageViewModel/>
+    </ContentPage.BindingContext>
+    <VerticalStackLayout>
+        <Image Source="logo" HeightRequest="180"></Image>
+        <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" RowSpacing="0" Padding="20,50,20,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label  Grid.Row="0" Text="Employee Smart App" FontSize="24" FontAttributes="Bold" TextColor="DodgerBlue" HorizontalOptions="CenterAndExpand"></Label>
+            <Label Grid.Row="1" Text="Login to account" TextColor="Black" HorizontalOptions="CenterAndExpand"></Label>
+            <BoxView Grid.Row="2"></BoxView>
+            <Label Grid.Row="3" Text="Enter User Name" TextColor="Black" HorizontalOptions="StartAndExpand"></Label>
+            <input:SfTextInputLayout Grid.Row="4"  
+                                     Hint="User Name" 
+                                     x:Name="UserNameEntry" 
+                                     ContainerType="Outlined"
+                                     HorizontalOptions="FillAndExpand">
+                <Entry Keyboard="Text" Text="{Binding UserName}"></Entry>    
+            </input:SfTextInputLayout>
+            <Label Grid.Row="5" Text="Enter Password" TextColor="Black" HorizontalOptions="StartAndExpand"></Label>
+            <input:SfTextInputLayout Grid.Row="6"  
+                          Hint="Password" 
+                          x:Name="PasswordEntry" 
+                          ContainerType="Outlined"
+                          HorizontalOptions="FillAndExpand">
+                <Entry  IsPassword="True"  Text="{Binding Password}" Keyboard="Numeric"></Entry>
+            </input:SfTextInputLayout>
+            <BoxView Grid.Row="7"></BoxView>
+            <ActivityIndicator Grid.Row="8" HeightRequest="80" WidthRequest="800" IsVisible="{Binding IsBusy}" IsRunning="{Binding IsBusy}"/>
+            <Button Grid.Row="9" 
+                    Text="Login" 
+                    BackgroundColor="DodgerBlue" 
+                    TextColor="White" 
+                    CornerRadius="20"
+                    Command="{Binding LoginCommand}"
+                    HorizontalOptions="FillAndExpand">
+            </Button>
+            <Label  Grid.Row="10" Text="or sign with" HorizontalOptions="CenterAndExpand" Padding="10" VerticalOptions="CenterAndExpand"/>
+            <HorizontalStackLayout HorizontalOptions="CenterAndExpand" Grid.Row="11" Padding="10" Spacing="40">
+                <Image Source="google" HeightRequest="30" WidthRequest="30" Aspect="AspectFill"/>
+                <Image Source="linkedin" HeightRequest="30" WidthRequest="30" Aspect="AspectFill"/>
+                <Image Source="twitter" HeightRequest="30" WidthRequest="30" Aspect="AspectFill"/>
+                <Image Source="facebook" HeightRequest="30" WidthRequest="30" Aspect="AspectFill"/>
+            </HorizontalStackLayout>
+            <Label Grid.Row="12" Text="Foget Password?" FontAttributes="Bold" HorizontalOptions="CenterAndExpand"/>
+            <Button Grid.Row="13" CornerRadius="20" FontAttributes="Bold" Text="Don't have an account? Sign up here" BackgroundColor="White" TextColor="DarkCyan" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+        </Grid>
+    </VerticalStackLayout>
+</ContentPage>

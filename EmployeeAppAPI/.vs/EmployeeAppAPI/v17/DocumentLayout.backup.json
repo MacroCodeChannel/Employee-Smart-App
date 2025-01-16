@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\data\\employeeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:data\\employeeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\models\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:models\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\models\\systemcodedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:models\\systemcodedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\models\\systemcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:models\\systemcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\models\\companyinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:models\\companyinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\models\\auditentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:models\\auditentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\models\\approvalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:models\\approvalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\models\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:models\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\models\\systemprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:models\\systemprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|d:\\content creation\\.net core projects\\employeeappapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5815338-F5B8-43B8-9ADC-994ABCCB8D67}|EmployeeAppAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountriesController.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "Controllers\\CountriesController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:52:39.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SystemCodeDetail.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\SystemCodeDetail.cs",
+              "RelativeDocumentMoniker": "Models\\SystemCodeDetail.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\SystemCodeDetail.cs",
+              "RelativeToolTip": "Models\\SystemCodeDetail.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:46:10.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Models\\Country.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\Country.cs",
+              "RelativeToolTip": "Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:45:36.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:40:41.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:40:39.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompanyInformation.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\CompanyInformation.cs",
+              "RelativeDocumentMoniker": "Models\\CompanyInformation.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\CompanyInformation.cs",
+              "RelativeToolTip": "Models\\CompanyInformation.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:40:37.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApprovalEntry.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\ApprovalEntry.cs",
+              "RelativeDocumentMoniker": "Models\\ApprovalEntry.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\ApprovalEntry.cs",
+              "RelativeToolTip": "Models\\ApprovalEntry.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:40:32.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuditEntry.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\AuditEntry.cs",
+              "RelativeDocumentMoniker": "Models\\AuditEntry.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\AuditEntry.cs",
+              "RelativeToolTip": "Models\\AuditEntry.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:39:52.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeAppContext.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Data\\EmployeeAppContext.cs",
+              "RelativeDocumentMoniker": "Data\\EmployeeAppContext.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Data\\EmployeeAppContext.cs",
+              "RelativeToolTip": "Data\\EmployeeAppContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:35:48.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:28:15.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SystemCode.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\SystemCode.cs",
+              "RelativeDocumentMoniker": "Models\\SystemCode.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\SystemCode.cs",
+              "RelativeToolTip": "Models\\SystemCode.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:37:17.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserActivity.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\UserActivity.cs",
+              "RelativeDocumentMoniker": "Models\\UserActivity.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\UserActivity.cs",
+              "RelativeToolTip": "Models\\UserActivity.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:37:26.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:28:36.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:39:16.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Holiday.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\Holiday.cs",
+              "RelativeDocumentMoniker": "Models\\Holiday.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\Holiday.cs",
+              "RelativeToolTip": "Models\\Holiday.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:38:24.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SystemProfile.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\SystemProfile.cs",
+              "RelativeDocumentMoniker": "Models\\SystemProfile.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Models\\SystemProfile.cs",
+              "RelativeToolTip": "Models\\SystemProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:38:31.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T15:30:44.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T15:29:23.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\EmployeeAppAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:28:32.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

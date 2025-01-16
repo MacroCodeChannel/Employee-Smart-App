@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EmployeesAPP.csproj",
+        "Action": "Start",
+        "DebugTarget": "Pixel 7 - API 35 (Android 15.0 - API 35)"
+      }
+    ]
+  }
+]
